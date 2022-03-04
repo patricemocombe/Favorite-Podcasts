@@ -1,3 +1,3 @@
-const h2 = docuent.createElement("h2");
-h2.textContent = "This content added by JavaScript";
+const h2 = document.createElement('h2');
+h2.textContent = "Thanks for visiting";
 document.querySelector("body").appendChild(h2);
